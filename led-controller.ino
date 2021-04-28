@@ -1,4 +1,5 @@
 #include <FastLED.h>
+// connect this pin to light bar data pin
 #define LED_PIN 7
 // set number of leds of your light bar
 #define NUM_LEDS 144
