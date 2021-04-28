@@ -23,6 +23,7 @@
 
 ## Usage
 
+- download [release](https://github.com/LiGhauNgyan/MIDI-LED-controller/releases/) for windows or build from source code with Qt
 - set parameters in `led-controller.ino`, see comments for details
 - select the key corresponding to the leftmost light
 - open serial port and load midi file
